@@ -22,7 +22,7 @@ Areas for improvement:
 Top 30 Most Common Words in GFriend Songs:
 내 (My): 104
 더 (More): 73
-날 (Night): 61
+날 (Me+Object Particle): 61
 이 (This): 60
 그 (That): 58
 You: 54
