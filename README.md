@@ -3,11 +3,6 @@
 
 <img src="https://user-images.githubusercontent.com/76632760/212512187-f008afb4-7363-4c55-a83a-65c66f5ab9bf.png" alt="GFriend" width="700"/>
 
-<img src="https://lh3.googleusercontent.com/l4z8Sh5vRWmCIPW0zlgGxCqeV4N9xtbHwuWceIVUkpJhYPUeFLTCjt_Ogo9sAu9aEpREbv5NW5O-a8SzQDTqaZwcJ1aXoGF-4k6WZYj16vSQ_A=w1200-h600-pp-rj-s365" alt="Twice" width="700"/>
-
-<img src="https://lh3.googleusercontent.com/l4z8Sh5vRWmCIPW0zlgGxCqeV4N9xtbHwuWceIVUkpJhYPUeFLTCjt_Ogo9sAu9aEpREbv5NW5O-a8SzQDTqaZwcJ1aXoGF-4k6WZYj16vSQ_A=w1200-h600-pp-rj-s365" alt="BlackPink" width="700"/>
-
-
 
 [GFriend (여자친구)](https://www.youtube.com/watch?v=r_6q_-d-7Sk&list=PLWqQwarHaCFesi5VUhT4w8FJ2X4hE1AEu&index=14) was a Korean girl group that produced music between 2015 and 2021. I was a huge fan during high school. I was listening to some of their old songs today, and I started to wonder what the most common words were. It seems to me that most KPop uses the same basic personal pronouns and love-related phrases quite often. I used the LyricsGenius client to access the Genius.com API, which made it easy to grab the lyrics to 50 of GFriend's songs and analyze them. This data is not particularly shocking, but it was interesting. I have added my translation of each word in parentheses--the English words with no Korean appeared in English originally.
 
